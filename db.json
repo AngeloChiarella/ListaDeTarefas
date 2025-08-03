@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "tarefa": "Estudar Angular",
+      "categoria": "Estudos",
+      "concluido": true
+    },
+    {
+      "tarefa": "Estudar AWS",
+      "categoria": "trabalho",
+      "concluido": false,
+      "id": 2
+    }
+  ]
+}
